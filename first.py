@@ -4,3 +4,4 @@ for i in range (0,100): #m sab mix kardeti hu
         i=int(i)
         sum=sum+i
 print(sum)
+print("done")
